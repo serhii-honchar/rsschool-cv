@@ -1,10 +1,10 @@
 **Java Script**
 
-######Contacts 
+###### Contacts 
 * Telegram: @SerhiiG
 * Skype: sergio.alfarero
 
-######Brief introduction
+###### Brief introduction
 
 >Programming language that conforms to the [ECMAScript specification](https://www.ecma-international.org/ecma-262/11.0)
 
@@ -16,19 +16,19 @@
 - Functional
 - Delegative
 
-######Libraries and frameworks:
+###### Libraries and frameworks:
 jQuery, Angular, React, Node.js, Backbone.js, Vue.js
 
-######Code examples
+###### Code examples
 
 https://en.wikipedia.org/wiki/JavaScript_syntax
 
-######Experience
+###### Experience
 
 >"JavaScript" is a trademark of Oracle Corporation in the United States. It is used under license for technology invented and implemented by Netscape Communications and other parties
 
-######Education
+###### Education
 __rsschool__
 
-######Languages: 
+###### Languages: 
 English (*must have*) 
